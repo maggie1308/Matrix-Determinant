@@ -18,7 +18,8 @@ For the 3x3 case, or[ [a, b, c], [d, e, f], [g, h, i] ]
 |a b c|  
 |d e f|  
 |g h i|  
-the determinant is: where refers to taking the determinant of the 2x2 matrix created by crossing out the row and column in which the element a occurs:a * det(a_minor) - b * det(b_minor) + c * det(c_minor)det(a_minor)
+the determinant is: where refers to taking the determinant of the 2x2 matrix created by crossing out 
+the row and column in which the element a occurs:a * det(a_minor) - b * det(b_minor) + c * det(c_minor)det(a_minor)
 
 |- - -|
 |- e f|
